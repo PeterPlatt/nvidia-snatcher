@@ -10,7 +10,7 @@ The purpose of this bot is to get an Nvidia card. It tries multiple things to do
 - Scrapes multiple websites for patterns of being stocked
     - API requests are a work in progress (very soon)
 - Opens browser when stock is available
-- Sends an email to you when stock is avaiable (must have Gmail)
+- Sends an email to you when stock is available (must have Gmail)
 
 <details>
 <summary>What you may see if you're lucky</summary>
